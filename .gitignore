@@ -1,0 +1,13 @@
+*.ipynb
+*.pt
+.DS_Store
+./.ipynb_checkpoints
+.idea/
+checkpoints
+data
+logs
+model_hub
+report
+tf
+tf_serving
+venv
